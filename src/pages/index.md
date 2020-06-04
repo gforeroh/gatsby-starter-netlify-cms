@@ -55,17 +55,18 @@ intro:
 main:
   heading: Great coffee with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Mantenemos nuestro café con los más altos estándares desde el arbusto hasta
+    la taza. Es por eso que somos meticulosos y transparentes en cada paso del
+    viaje del café. Visitamos personalmente cada granja para asegurarnos de que
+    las condiciones sean óptimas para las plantas, los agricultores y el medio
+    ambiente local.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Un primer plano de un filtro de papel lleno de café molido
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Una taza de café verde sobre una mesa de madera
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Granos de café
     image: /img/products-grid1.jpg
 ---
